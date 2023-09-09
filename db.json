@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "name": "Coffee",
+      "quantity": 5,
+      "price": 5000,
+      "id": 2
+    },
+    {
+      "name": "Masala Tea",
+      "quantity": 9,
+      "price": 5500,
+      "id": 3
+    },
+    {
+      "name": "Cold coffee",
+      "quantity": 5,
+      "price": 600,
+      "id": 4
+    },
+    {
+      "name": "lemon tea",
+      "quantity": 10,
+      "price": 10000,
+      "id": 5
+    },
+    {
+      "name": "Cold Lemon Tea",
+      "quantity": 5,
+      "price": 5000,
+      "id": 6
+    }
+  ]
+}
